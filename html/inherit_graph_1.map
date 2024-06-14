@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,85,105"/>
+<area shape="rect" id="node2" href="$classrandomorg__documentation_1_1Exceptions_1_1WrongLengthException.html" title="Exception class for values exceeding length." alt="" coords="133,5,359,47"/>
+<area shape="rect" id="node3" href="$classrandomorg__documentation_1_1Exceptions_1_1WrongRangeException.html" title="Exception class for values exceeding range." alt="" coords="134,71,358,112"/>
+<area shape="rect" id="node4" href="$classrandomorg__documentation_1_1Exceptions_1_1WrongValueException.html" title="Exception class for invalid values." alt="" coords="137,136,355,177"/>
+</map>

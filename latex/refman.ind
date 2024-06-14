@@ -1,0 +1,59 @@
+\begin{theindex}
+
+  \item {\_\_init\_\_}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{6}
+
+  \indexspace
+
+  \item {genBlob}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{7}
+  \item {genDecFrac}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{7}
+  \item {genGauss}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{8}
+  \item {genInt}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{9}
+  \item {genIntSeq}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{10}
+  \item {genStr}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{11}
+  \item {genUUID}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{11}
+  \item {getId}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{12}
+  \item {getToken}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{12}
+  \item {getUsage}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{13}
+
+  \indexspace
+
+  \item {randomorg\_documentation.Client.Client}, \hyperpage{5}
+    \subitem {\_\_init\_\_}, \hyperpage{6}
+    \subitem {genBlob}, \hyperpage{7}
+    \subitem {genDecFrac}, \hyperpage{7}
+    \subitem {genGauss}, \hyperpage{8}
+    \subitem {genInt}, \hyperpage{9}
+    \subitem {genIntSeq}, \hyperpage{10}
+    \subitem {genStr}, \hyperpage{11}
+    \subitem {genUUID}, \hyperpage{11}
+    \subitem {getId}, \hyperpage{12}
+    \subitem {getToken}, \hyperpage{12}
+    \subitem {getUsage}, \hyperpage{13}
+    \subitem {setId}, \hyperpage{13}
+    \subitem {setToken}, \hyperpage{14}
+  \item {randomorg\_documentation.Exceptions.WrongLengthException}, 
+		\hyperpage{14}
+  \item {randomorg\_documentation.Exceptions.WrongRangeException}, 
+		\hyperpage{16}
+  \item {randomorg\_documentation.Exceptions.WrongValueException}, 
+		\hyperpage{17}
+
+  \indexspace
+
+  \item {setId}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{13}
+  \item {setToken}
+    \subitem {randomorg\_documentation.Client.Client}, \hyperpage{14}
+
+\end{theindex}
